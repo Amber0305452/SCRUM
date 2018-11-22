@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.28-09" preRepeat="herhaal totdat" postFor="tot" preReturn="return" postForIn="in" preWhile="herhaal zolang" output="schrijf" input="lees" preFor="voor" preExit="exit" preLeave="leave" ignoreCase="false" preForIn="voor elke" stepFor="by" author="Amber" created="2018-10-15" changedby="Amber" changed="2018-11-08" origin="Structorizer 3.28-09" text="&#34;BEREKEN_JE_BMI&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;schrijf&#34;&#34;Geef je lengte in m in?&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;lees LENGTE&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;schrijf&#34;&#34;Geef je gewicht in kg in?&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;lees GEWICHT&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;BMI&#60;--GEWICHT/(LENGTE*LENGTE)&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;schrijf&#34;&#34;Je BMI is &#34;&#34;+BMI+&#34;&#34;.&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

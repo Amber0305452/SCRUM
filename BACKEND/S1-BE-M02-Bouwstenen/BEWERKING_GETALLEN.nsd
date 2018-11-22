@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.28-09" preRepeat="herhaal totdat" postFor="tot" preReturn="return" postForIn="in" preWhile="herhaal zolang" output="schrijf" input="lees" preFor="voor" preExit="exit" preLeave="leave" ignoreCase="false" preForIn="voor elke" stepFor="by" author="Amber" created="2018-10-12" changedby="Amber" changed="2018-10-12" origin="Structorizer 3.28-09" text="&#34;BEWERKING_GETALLEN&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;schrijf&#34;&#34;Geef het eerste getal&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;lees GETAL1&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;schrijf&#34;&#34;Geef het tweede getal&#34;&#34;&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;lees GETAL2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;SOM&#60;--GETAL1*GETAL2&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;schrijf&#34;&#34;Het resultaat van de 2 getallen is&#34;&#34;+SOM&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>
