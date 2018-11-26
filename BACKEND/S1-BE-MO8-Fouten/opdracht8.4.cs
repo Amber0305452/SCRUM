@@ -35,7 +35,7 @@ namespace ConsoleApplication6
             }
             else
             {
-                Console.WriteLine("This IP is not reachable.");
+                Console.WriteLine("The IP is not reachable. Press any key to close the application.");
             }
             Console.ReadKey();
         }        
